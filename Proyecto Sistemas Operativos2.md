@@ -40,6 +40,7 @@ En el entorno dinámico y expansivo del desarrollo web, la elección y configura
 
 ##MARCO TEORICO
 linux-Ubuntu
+Ubuntu, una distribución de Linux, fue creada por Mark Shuttleworth y su empresa Canonical Ltd. La primera versión estable de Ubuntu, la 4.10 "Warty Warthog", fue lanzada el 20 de octubre de 2004. Desde entonces, se han lanzado numerosas versiones con mejoras y actualizaciones
 Linux: Linux es un sistema operativo de código abierto basado en el kernel Linux. Creado por Linus Torvalds, su flexibilidad y estabilidad lo han convertido en una opción popular para servidores y estaciones de trabajo.
 
 Ubuntu: Ubuntu es una distribución de Linux que se enfoca en la facilidad de uso y la accesibilidad. Desarrollada por Canonical Ltd., Ubuntu ha ganado reconocimiento por su comunidad activa, actualizaciones regulares y soporte a largo plazo (LTS).
@@ -81,6 +82,25 @@ Integración con Bases de Datos:
 PHP facilita la integración con sistemas de gestión de bases de datos, como MySQL, permitiendo la creación de aplicaciones web interactivas y dinámicas.
 
 Apache:
+Historia y Año de Creación:
+
+Apache HTTP Server fue creado en 1995 por un grupo de desarrolladores que formaron la Apache Group. Desde entonces, ha evolucionado y se ha convertido en el servidor web más utilizado del mundo.
+
+Características Principales:
+Código Abierto: Apache es un software de código abierto, lo que significa que su código fuente está disponible para el público y puede ser modificado y distribuido libremente.
+
+Multiplataforma: Es compatible con varios sistemas operativos, incluyendo Unix, Linux, Windows, y otros.
+Módulos: La arquitectura modular permite la extensibilidad mediante módulos, lo que facilita la adición de nuevas funciones y la personalización del servidor.
+Configuración Flexible: Apache es altamente configurable a través de archivos de configuración que permiten adaptarse a una variedad de situaciones y requisitos.
+
+Ventajas:
+Robustez y Estabilidad: Es conocido por su estabilidad y robustez, y ha demostrado ser capaz de manejar un gran número de solicitudes simultáneas.
+Gran Comunidad y Soporte: Al ser de código abierto, cuenta con una gran comunidad de desarrolladores y usuarios que proporcionan soporte a través de foros, documentación y otros recursos en línea.
+Seguridad: Apache tiene un historial sólido en cuanto a seguridad, y su comunidad responde rápidamente a las vulnerabilidades mediante actualizaciones y parches.
+Desventajas:
+
+Consumo de Recursos: En comparación con algunos servidores web más ligeros, Apache puede consumir más recursos, especialmente en configuraciones predeterminadas.
+Configuración Inicial Compleja: La configuración inicial puede parecer complicada para usuarios principiantes, ya que requiere la edición de archivos de configuración. Sin embargo, existen herramientas y interfaces gráficas que facilitan este proceso.
 
 Introducción a Apache:
 Apache HTTP Server, comúnmente conocido como Apache, es un servidor web de código abierto ampliamente utilizado. Proporciona un entorno robusto para alojar sitios web y aplicaciones web.
