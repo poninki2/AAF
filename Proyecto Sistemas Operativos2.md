@@ -62,7 +62,7 @@ El kernel de Linux es el núcleo del sistema operativo, gestionando recursos y p
 MySQL:
 
 Introducción a MySQL:
-MySQL es un sistema de gestión de bases de datos relacional (RDBMS) de código abierto. Desarrollado por Oracle Corporation, es ampliamente utilizado para almacenar y gestionar datos en aplicaciones web.
+MySQL es un sistema de gestión de bases de datos relacional (RDBMS=sistemas de gestión de base de datos relacionable.) de código abierto. Desarrollado por Oracle Corporation, es ampliamente utilizado para almacenar y gestionar datos en aplicaciones web.
 
 Características Clave:
 MySQL es conocido por su rendimiento, confiabilidad y facilidad de uso. Ofrece soporte para transacciones, replicación, funciones almacenadas y desencadenadores, convirtiéndolo en una opción robusta para el manejo de datos.
