@@ -1,13 +1,5 @@
 
 # Proyecto de Sistemas Operativos II
-
-INTRODUCCION
-
-En el entorno dinámico y expansivo del desarrollo web, la elección y configuración adecuada de software son elementos cruciales para asegurar un rendimiento óptimo y un despliegue eficiente de aplicaciones. Este proyecto se centra en la instalación de paquetes fundamentales para el desarrollo web en un entorno Ubuntu, abordando específicamente la implementación de MySQL como base de datos, Apache como servidor web y PHP como lenguaje de programación del lado del servidor, junto con la integración del sistema de gestión de aprendizaje E-front.
-
-OBJETIVOS
-
-# Proyecto de Sistemas Operativos II
 # Ingenieria de Sistemas
 
 Grupo # 4
@@ -97,8 +89,8 @@ Ventajas:
 Robustez y Estabilidad: Es conocido por su estabilidad y robustez, y ha demostrado ser capaz de manejar un gran número de solicitudes simultáneas.
 Gran Comunidad y Soporte: Al ser de código abierto, cuenta con una gran comunidad de desarrolladores y usuarios que proporcionan soporte a través de foros, documentación y otros recursos en línea.
 Seguridad: Apache tiene un historial sólido en cuanto a seguridad, y su comunidad responde rápidamente a las vulnerabilidades mediante actualizaciones y parches.
-Desventajas:
 
+Desventajas:
 Consumo de Recursos: En comparación con algunos servidores web más ligeros, Apache puede consumir más recursos, especialmente en configuraciones predeterminadas.
 Configuración Inicial Compleja: La configuración inicial puede parecer complicada para usuarios principiantes, ya que requiere la edición de archivos de configuración. Sin embargo, existen herramientas y interfaces gráficas que facilitan este proceso.
 
